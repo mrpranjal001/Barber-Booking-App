@@ -3,7 +3,7 @@
 # Features 
 
 Barbers:
-- Invite your clients & manage your client list
+- Invite your clients & manage your client list. 
 - Keep all of your appointments organized in one place
 - Set your location and availability to get discovered by new clients & grow your business
 - Accept mobile payments
