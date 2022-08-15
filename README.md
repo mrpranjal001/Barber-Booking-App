@@ -1,6 +1,6 @@
 # Barber-Booking-App
 
-# Features 
+# Features & Functions 
 
 Barbers:
 - Invite your clients & manage your client list. 
